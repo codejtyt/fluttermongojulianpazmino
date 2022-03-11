@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622b7930daa5d2a43d5b73f9"
+  },
+  "nombre": "marikin",
+  "apellido": "Gaviria",
+  "Edad": "31"
+},{
+  "_id": {
+    "$oid": "622b7930daa5d2a43d5b73fa"
+  },
+  "nombre": "Jose",
+  "apellido": "Ponfilio",
+  "Edad": "43"
+},{
+  "_id": {
+    "$oid": "622b7930daa5d2a43d5b73fb"
+  },
+  "nombre": "Lina",
+  "apellido": "Hernandez",
+  "Edad": "24"
+}]

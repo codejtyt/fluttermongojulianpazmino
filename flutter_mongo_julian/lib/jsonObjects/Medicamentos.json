@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "622b7c3adaa5d2a43d5b7405"
+  },
+  "Producto ": "Acetominofem",
+  "Aplicacion": "tabletas",
+  "Horario": "Cada 8 Horas"
+},{
+  "_id": {
+    "$oid": "622b7c3adaa5d2a43d5b7406"
+  },
+  "Producto ": "Inyeccion",
+  "Aplicacion": "Jeringa",
+  "Horario": "1 Sola Aplicacion"
+},{
+  "_id": {
+    "$oid": "622b7c3adaa5d2a43d5b7407"
+  },
+  "Producto ": "Suero",
+  "Aplicacion": "Oral",
+  "Horario": "Cada 24 horas"
+}]

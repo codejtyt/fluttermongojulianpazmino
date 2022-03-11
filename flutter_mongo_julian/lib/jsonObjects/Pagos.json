@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "622b7e5fdaa5d2a43d5b740b"
+  },
+  "Tipo de pago ": "Efectivo",
+  "Cuotas Disponibles": "si"
+},{
+  "_id": {
+    "$oid": "622b7e5fdaa5d2a43d5b740c"
+  },
+  "Tipo de pago ": "PSE",
+  "Cuotas Disponibles": "si"
+},{
+  "_id": {
+    "$oid": "622b7e5fdaa5d2a43d5b740d"
+  },
+  "Tipo de pago ": "Tarjeta De Credito",
+  "Cuotas Disponibles": "si"
+}]

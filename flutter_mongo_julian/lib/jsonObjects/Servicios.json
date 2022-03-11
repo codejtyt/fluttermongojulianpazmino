@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "622b79f9daa5d2a43d5b73ff"
+  },
+  "Servicio ": "Ortodoncia Total",
+  "Precio": "$1.000.000"
+},{
+  "_id": {
+    "$oid": "622b79f9daa5d2a43d5b7400"
+  },
+  "Servicio ": "Blanqueamento Dental",
+  "Precio": "$50.000"
+},{
+  "_id": {
+    "$oid": "622b79f9daa5d2a43d5b7401"
+  },
+  "Servicio ": "Calsas",
+  "Precio": "$20.000"
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622b7454daa5d2a43d5b73e5"
+  },
+  "tratamiento ": "Ortodoncia Total",
+  "kit": "1",
+  "repuestos": "3",
+  "Retenedores": "Si"
+},{
+  "_id": {
+    "$oid": "622b747bdaa5d2a43d5b73e7"
+  },
+  "tratamiento ": "Ortodoncia Total",
+  "kit": "1",
+  "repuestos": "1",
+  "Retenedores": "No"
+},{
+  "_id": {
+    "$oid": "622b7499daa5d2a43d5b73e9"
+  },
+  "tratamiento ": "Ortodoncia Total",
+  "kit": "1",
+  "repuestos": "Ninguno",
+  "Retenedores": "No"
+}]

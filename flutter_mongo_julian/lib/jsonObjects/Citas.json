@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "622b75d0daa5d2a43d5b73ed"
+  },
+  "Cita": "Lunes y viernes",
+  "Horarios": "3pm y 4pm",
+  "fechas": "(28/04/2022) y (28/05/2022)",
+  "Doctor Asignado": "Marikin Gaviria"
+},{
+  "_id": {
+    "$oid": "622b7618daa5d2a43d5b73ef"
+  },
+  "Cita": "Miercoles y Jueves",
+  "Horarios": "2pm y 4pm",
+  "fechas": "(28/05/2022) y (28/06/2022)",
+  "Doctor Asignado": "Jose Ponfilio"
+},{
+  "_id": {
+    "$oid": "622b7670daa5d2a43d5b73f1"
+  },
+  "Cita": "Martes y Viernes",
+  "Horarios": "4pm y 6pm",
+  "fechas": "(28/07/2022) y (29/07/2022)",
+  "Doctor Asignado": "Lina Hernandez"
+}]
